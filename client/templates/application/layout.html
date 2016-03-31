@@ -1,0 +1,20 @@
+
+<template name="layout">
+  <header class="navbar navbar-default" role="navigation">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{pathFor 'postsList'}}">Todo list example by Meteor</a>
+    </div>
+  </header>
+  <body>
+    <div class="container">
+      <header class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">Microscope</a>
+        </div>
+      </header>
+      <div id="main" class="row-fluid">
+        {{> yield}}
+      </div>
+    </div>
+  </body>
+</template>
