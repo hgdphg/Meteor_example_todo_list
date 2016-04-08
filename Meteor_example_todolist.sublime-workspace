@@ -1,0 +1,919 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"submit	Event"
+			],
+			[
+				"Foo",
+				"Footer	(Footer.js)"
+			],
+			[
+				"F",
+				"Footer"
+			],
+			[
+				"mod",
+				"mod	module .. ClassMethods .. end"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"end",
+				"end_checker"
+			],
+			[
+				"get",
+				"getDefaultProps	(contents.js.coffee)"
+			],
+			[
+				"co",
+				"cookies	(homepage_controller.rb)"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"if",
+				"ifel	If Else"
+			],
+			[
+				"reac",
+				"React"
+			],
+			[
+				"rea",
+				"React"
+			],
+			[
+				"class",
+				"className	(users.js.coffee)"
+			],
+			[
+				"has",
+				"has_content_checks"
+			],
+			[
+				"dis",
+				"dislike_count"
+			],
+			[
+				"Jo",
+				"JokeContent"
+			],
+			[
+				"li",
+				"like	(joke_content.rb)"
+			],
+			[
+				"J",
+				"JokeContent"
+			],
+			[
+				"home",
+				"home_page	(routes.rb)"
+			],
+			[
+				"like",
+				"like_method	(joke_contents_controller.rb)"
+			],
+			[
+				"cont",
+				"content_id"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fa",
+				"FactoryGirl"
+			],
+			[
+				"res",
+				"respond_to	(product_spec.rb)"
+			],
+			[
+				"Fa",
+				"FactoryGirl	(products.rb)"
+			],
+			[
+				"add",
+				"add_product	(cart.rb)"
+			],
+			[
+				"un",
+				"unless	unless … end"
+			],
+			[
+				"user",
+				"username	(new.html.haml)"
+			],
+			[
+				"se",
+				"sessions	(create.html.haml)"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pres",
+				"presence	(product.rb)"
+			],
+			[
+				"lin",
+				"line_items"
+			],
+			[
+				"pay",
+				"pay_type	(orders_controller.rb)"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"PA",
+				"PAYMENT_TYPES	(_form.html.haml)"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"line",
+				"line_items	(line_items_controller.rb)"
+			],
+			[
+				"ca",
+				"cart"
+			],
+			[
+				"reu",
+				"reduce_cart	(current_cart.rb)"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"total",
+				"total_cell	(show.html.haml)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pro",
+				"product	(routes.rb)"
+			],
+			[
+				"Acti",
+				"ActiveRecord	(current_cart.rb)"
+			],
+			[
+				"cart",
+				"cart_id	(current_cart.rb)"
+			],
+			[
+				"crea",
+				"create	(current_cart.rb)"
+			],
+			[
+				"Line",
+				"LineItem"
+			],
+			[
+				"Li",
+				"LineItem	(line_items_controller.rb)"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"ad",
+				"add_product	(cart.rb)"
+			],
+			[
+				"fin",
+				"find"
+			],
+			[
+				"produc",
+				"product	(routes.rb)"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"set",
+				"set_cart	(current_cart.rb)"
+			],
+			[
+				"car",
+				"cart_id"
+			],
+			[
+				"mo",
+				"mod	module .. ClassMethods .. end"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"agl",
+				"align	(scaffolds.scss)"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pri",
+				"price_line	(index.html.haml)"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"au",
+				"auto"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"jokecon",
+				"jokeconten	(jokecontens_controller.rb)"
+			],
+			[
+				"jo",
+				"jokeconten	(jokecontens_controller.rb)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/router.js",
+			"settings":
+			{
+				"buffer_size": 713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "client/templates/posts/posts_list.js",
+			"settings":
+			{
+				"buffer_size": 84,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "server/publications.js",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Meteor_example_todolist.sublime-project",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Tern",
+		"selected_items":
+		[
+			[
+				"Tern",
+				"TernJS: Reload"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os;",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"PRV",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/helpers",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/application",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/collections",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/server"
+	],
+	"file_history":
+	[
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/application/layout.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes/header.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_submit.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/collections/posts.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_submit.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/helpers/config.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/application/layout.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/router.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes/access_denied.html",
+		"/home/hoangphuong/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_item.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/config/_base.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/index.html",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/main.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/containers/Nav.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/config/environments/development.rb",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/react-router/es6/Router.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/components/Footer.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/babel-preset-react-hmre/test/Test.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/routes/index.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/layouts/CoreLayout.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/containers/Root.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/layouts/Foot.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/containers/TopBar.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/containers/Footer.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/components/TopBar.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/.eslintrc",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/react-dock/README.md",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/components/footer.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/babel-plugin-react-transform/test/fixtures/options-multiple-transforms/actual.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/react-router/lib/Router.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/accepts/README.md",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/eslint-plugin-react/CHANGELOG.md",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/node_modules/react/dist/react-with-addons.js",
+		"/home/hoangphuong/Projects/NodeJS/isomorphic-comments/isomorphic-comments-api/app/models/user.rb",
+		"/home/hoangphuong/Projects/NodeJS/isomorphic-comments/isomorphic-comments-api/app/controllers/api/v1/comments_controller.rb",
+		"/home/hoangphuong/Projects/NodeJS/isomorphic-comments/isomorphic-comments-api/app/controllers/application_controller.rb",
+		"/home/hoangphuong/Projects/NodeJS/isomorphic-comments/isomorphic-comments-api/spec/requests/api/v1/registrations_spec.rb",
+		"/home/hoangphuong/Projects/NodeJS/isomorphic-comments/isomorphic-comments-api/config/routes.rb",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/app/controllers/api/v1/users_controller.rb",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/config/routes.rb",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/app/controllers/users_controller.rb",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/config/database.yml",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/Gemfile",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/lib/api_constraints.rb",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_api/app/controllers/application_controller.rb",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/node_modules/redux-devtools/lib/index.js",
+		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/README.md",
+		"/home/hoangphuong/Projects/NodeJS/react-redux-starter-kit/node_modules/.bin/_mocha",
+		"/home/hoangphuong/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/hoangphuong/Projects/RubyOnRails/react-webpack-rails-tutorial/client/.babelrc",
+		"/home/hoangphuong/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/hoangphuong/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/hoangphuong/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote_react_redux/package.json",
+		"/home/hoangphuong/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/hoangphuong/Projects/RubyOnRails/react-webpack-rails-tutorial/config/routes.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/react-webpack-rails-tutorial/client/node_modules/express/lib/application.js",
+		"/home/hoangphuong/Projects/RubyOnRails/react-webpack-rails-tutorial/client/app/bundles/comments/startup/ServerRouterApp.jsx",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote_react/app/assets/javascripts/components/user.js.jsx",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote_react/app/assets/stylesheets/application.scss",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote_react/app/assets/javascripts/application.js",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote_react/app/assets/stylesheets/application.css",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/assets/javascripts/bootstrap.js.coffee",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/controllers/sessions_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/views/layouts/application.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/views/home_page/index.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/assets/stylesheets/home_page.sass",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/controllers/home_page_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/config/routes.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/models/joke_content.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/controllers/joke_contents_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/assets/stylesheets/application.css",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/Gemfile",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/config/environments/development.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/jokequote/app/assets/stylesheets/home_page.scss",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/Gemfile",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/config/application.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/factories/orders.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/factories/line_items.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/factories/users.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/factories/products.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/controllers/admin_controller_spec.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/helpers/admin_helper_spec.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/spec_helper.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/models/cart.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/models/cart_spec.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/models/product.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/spec/models/user_spec.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/config/database.yml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/users_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/sessions_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/carts_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/line_items_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/application_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/layouts/application.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/users/index.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/models/user.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/orders_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/sessions/new.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/admin/index.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/store_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/config/routes.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/users/_form.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/sessions/destroy.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/admin_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/db/schema.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/db/migrate/20151215154447_create_users.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/carts/_cart.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/line_items/create.js.erb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/products_controller.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/products/who_bought.atom.builder",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/models/line_item.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/orders/_form.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/javascripts/orders.coffee",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/stylesheets/orders.scss",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/models/order.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/db/migrate/20151215151319_create_orders.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/line_items/_line_item.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/helpers/application_helper.rb",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/store/index.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/javascripts/application.js",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/carts/show.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/carts/_cart_mini.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/line_items/_line_item_mini.html .haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/line_items/_line_item_mini.html.haml",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/stylesheets/store.scss",
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/concerns/current_cart.rb"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"d",
+			"\"",
+			"__BASENAME__",
+			"3000",
+			"3001",
+			"3000",
+			"<Provider store={this.props.store}>",
+			"__DEBUG__",
+			"__DEBUG_NEW_WINDOW__",
+			"\"root\"",
+			"render() {",
+			"React.Component",
+			"constructor",
+			"from 'react'",
+			"\"root\"",
+			"this.props.children",
+			"react-router",
+			"3000",
+			"api_user",
+			":api_user",
+			"sessions",
+			"api_user",
+			"ImplicitRender",
+			"authenticate_api_user",
+			"api_user",
+			"authenticate_api_user",
+			"api_user",
+			"ImplicitRender",
+			"acts_as_token_authenticatable",
+			"text-center",
+			"toggleVisibilityKey",
+			"createDevTools",
+			"var ",
+			"React.Component",
+			"extents",
+			"extends",
+			"extents",
+			"process.env.BABEL_ENV",
+			"process.env.npm_lifecycle_event",
+			"/\\.jsx?$/",
+			"'.js', '.jsx'",
+			"test: /\\.css$/,",
+			"\"ignored_packages\": [\"Vintage\"]",
+			"RouterApp",
+			"extends BaseComponent",
+			"handleEditRecord",
+			"handleDeleteRecord",
+			"handleDelete",
+			"handleNewRecord",
+			"addRecord",
+			"className=\"records\"",
+			"@propTypes",
+			"jsx_transform_options",
+			"harmony: true,",
+			"jsx_transform_options",
+			"JSXTransformer",
+			"jsx_transform_options",
+			"createClass",
+			"recordForm",
+			"recordRow",
+			"React.Component",
+			"require react",
+			"react_component",
+			"JokeContent.find(params[:id])",
+			"joke_contents_path",
+			"RMagick",
+			"reduce_product",
+			"add_product"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "client/templates/posts/posts_list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "server/publications.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Meteor_example_todolist.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Meteor_example_todolist.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"react-router",
+				"jokequote_v2_app/node_modules/react-router/lib/Router.js"
+			],
+			[
+				"karm",
+				"bin/karma.js"
+			],
+			[
+				"babelrc",
+				"client/.babelrc"
+			],
+			[
+				"simplecommentscreen",
+				"client/app/bundles/comments/components/SimpleCommentScreen/SimpleCommentScreen.jsx"
+			],
+			[
+				"application",
+				"client/node_modules/express/lib/application.js"
+			],
+			[
+				"router",
+				"client/app/bundles/comments/startup/ServerRouterApp.jsx"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"rails_",
+				"spec/helpers/admin_helper_spec.rb"
+			],
+			[
+				"database",
+				"config/database.example.yml"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				".y",
+				"config/database.yml"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
