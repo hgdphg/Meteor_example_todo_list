@@ -1,3 +1,16 @@
+Template.postEdit.created = function() {
+  Session.set('postEditErrors', {});
+}
+
+Template.postEdit.helpers({
+  errorMessage: function(field) {
+    return Session.get('postEditErrors')[field];
+  },
+  errorClass: function (field) {
+    return !!Session.get('postEditErrors')[field] ? 'has-error' : '';
+  }
+});
+
 Template.postEdit.events({
   'submit form': function(e) {
     e.preventDefault();
@@ -9,19 +22,23 @@ Template.postEdit.events({
       title: $(e.target).find('[name=title]').val()
     }
 
+    var errors = validatePost(postProperties);
+    if (errors.title || errors.url)
+      return Session.set('postEditErrors', errors);
+
     Meteor.call('postCheckUrl', postProperties, function(error, result) {
       // display the error to the user and abort
       if (error)
-        return alert(error.reason);
+        return throwError(error.reason);
       if (result.postExists) {
-        alert('Have exist posts on <'+ postProperties.url +'> ....\nPage redirect to post lists, no change');
+        throwError('Have exist posts on <'+ postProperties.url +'> ....\nPage redirect to post lists, no change');
         Router.go('postPage', {_id: currentPostId});
       }
       else {
         Posts.update(currentPostId, {$set: postProperties}, function(error) {
           if (error) {
             // display the error to the user
-            alert(error.reason);
+            throwError(error.reason);
           } else {
             Router.go('postPage', {_id: currentPostId});
           }
