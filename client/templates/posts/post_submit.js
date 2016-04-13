@@ -13,7 +13,6 @@ Template.postSubmit.events({
         return alert(error.reason);
       if (result.postExists) { alert('Have exist posts on <'+ post.url +'> ....\nPage still redirect to post');  }
       Router.go('postPage', {_id: result._id});
-
     });
   }
 });
