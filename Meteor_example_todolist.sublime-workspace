@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"pos",
+				"postAttributes"
+			],
+			[
+				"su",
+				"subscribe                  (fn)   [C]"
+			],
+			[
 				"sub",
 				"submit	Event"
 			],
@@ -300,34 +308,10 @@
 	"buffers":
 	[
 		{
-			"file": "lib/router.js",
+			"file": "/home/hoangphuong/Projects/3D/3-dreams-of-black/deploy/tech/index.html",
 			"settings":
 			{
-				"buffer_size": 713,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "client/templates/posts/posts_list.js",
-			"settings":
-			{
-				"buffer_size": 84,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "server/publications.js",
-			"settings":
-			{
-				"buffer_size": 64,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Meteor_example_todolist.sublime-project",
-			"settings":
-			{
-				"buffer_size": 217,
+				"buffer_size": 14073,
 				"line_ending": "Unix"
 			}
 		}
@@ -426,28 +410,38 @@
 	[
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client",
-		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/helpers",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/application",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib",
-		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/collections",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/server"
 	],
 	"file_history":
 	[
-		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/application/layout.html",
-		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes/header.html",
-		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_submit.js",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/collections/posts.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/sketchfab-viewer-1.0.0.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes/header.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/main.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/application/layout.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/router.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_edit.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_item.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/permissions.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_edit.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/helpers/errors.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes/errors.js",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_submit.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes/errors.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_submit.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/posts_list.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_item.html",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/collections/posts_list.js",
+		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/Meteor_example_todolist.sublime-project",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/helpers/config.js",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/application/layout.js",
-		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/lib/router.js",
 		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/includes/access_denied.html",
 		"/home/hoangphuong/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
-		"/home/hoangphuong/Projects/NodeJS/Meteor/Meteor_example_todo_list/client/templates/posts/post_item.js",
 		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/config/_base.js",
 		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/index.html",
 		"/home/hoangphuong/Projects/NodeJS/jokequote_v2/jokequote_v2_app/src/main.js",
@@ -552,23 +546,11 @@
 		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/models/line_item.rb",
 		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/orders/_form.html.haml",
 		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/javascripts/orders.coffee",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/stylesheets/orders.scss",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/models/order.rb",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/db/migrate/20151215151319_create_orders.rb",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/line_items/_line_item.html.haml",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/helpers/application_helper.rb",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/store/index.html.haml",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/javascripts/application.js",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/carts/show.html.haml",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/carts/_cart_mini.html.haml",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/line_items/_line_item_mini.html .haml",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/views/line_items/_line_item_mini.html.haml",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/stylesheets/store.scss",
-		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/controllers/concerns/current_cart.rb"
+		"/home/hoangphuong/Projects/RubyOnRails/Simple_eCommerce/app/assets/stylesheets/orders.scss"
 	],
 	"find":
 	{
-		"height": 26.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -584,6 +566,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"postInsert",
 			"d",
 			"\"",
 			"__BASENAME__",
@@ -670,118 +653,32 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "lib/router.js",
+					"file": "/home/hoangphuong/Projects/3D/3-dreams-of-black/deploy/tech/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 713,
+						"buffer_size": 14073,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								108,
-								108
+								6800,
+								6800
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "client/templates/posts/posts_list.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 84,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								84,
-								84
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "server/publications.js",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 64,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Meteor_example_todolist.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 217,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								217,
-								217
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2646.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
