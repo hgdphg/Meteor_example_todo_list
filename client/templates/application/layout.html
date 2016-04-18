@@ -6,33 +6,6 @@
     </div>
   </header>
   <body>
-    <!-- Insert an empty iframe -->
-    <iframe src="" id="api-frame" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" width="960px" height="480px"></iframe>
-
-    <!-- Initialize the viewer -->
-    <script type="text/javascript">
-    var iframe = document.getElementById( 'api-frame' );
-    var version = '1.0.0';
-    var urlid = '3nXiIkAd3IlHVNc4hqw4VmaX3tK';
-    var client = new Sketchfab( version, iframe );
-
-    client.init( urlid, {
-        success: function onSuccess( api ){
-            api.start();
-            api.addEventListener( 'viewerready', function() {
-
-                // API is ready to use
-                // Insert your code here
-                console.log( 'Viewer is ready' );
-
-            } );
-        },
-        error: function onError() {
-            console.log( 'Viewer error' );
-        }
-    } );
-    </script>
-
     <div class="container">
         {{> header}}
         {{> errors}}
